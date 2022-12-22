@@ -1,4 +1,4 @@
 # The Swett Website
 
-### [Recipes](recipes.swett.org)  
-### [Photos](photos.swett.org)
+### [Recipes](https://recipes.swett.org)  
+### [Photos](https://photos.swett.org)
